@@ -1,0 +1,241 @@
+{
+    "version": "1.0.0",
+    "author": "Lee M. Lwando",
+    "email": "leemlwando@gmail.com",
+    "github": "https://github.com/leemlwando",
+    "data": [
+        {
+            "uuid": "f6b214dc-95f4-40f5-9dbe-5db7e12a587d",
+            "title": "template",
+            "description": "",
+            "properties": [
+                {
+                    "name": "prop",
+                    "value": 0.5,
+                    "configs": {
+                        "subtype": "NONE",
+                        "min": 0.0,
+                        "max": 1.0,
+                        "soft_min": 0.0,
+                        "soft_max": 1.0,
+                        "step": 1.0,
+                        "precision": 3,
+                        "default": 1.0
+                    }
+                },
+                {
+                    "name": "prop1",
+                    "value": 1.0,
+                    "configs": {
+                        "subtype": "NONE",
+                        "min": 0.0,
+                        "max": 1.0,
+                        "soft_min": 0.0,
+                        "soft_max": 1.0,
+                        "step": 1.0,
+                        "precision": 3,
+                        "default": 1.0
+                    }
+                },
+                {
+                    "name": "prop2",
+                    "value": 1.0,
+                    "configs": {
+                        "subtype": "NONE",
+                        "min": 0.0,
+                        "max": 1.0,
+                        "soft_min": 0.0,
+                        "soft_max": 1.0,
+                        "step": 1.0,
+                        "precision": 3,
+                        "default": 1.0
+                    }
+                },
+                {
+                    "name": "prop3",
+                    "value": 1.0,
+                    "configs": {
+                        "subtype": "NONE",
+                        "min": 0.0,
+                        "max": 1.0,
+                        "soft_min": 0.0,
+                        "soft_max": 1.0,
+                        "step": 1.0,
+                        "precision": 3,
+                        "default": 1.0
+                    }
+                },
+                {
+                    "name": "prop4",
+                    "value": 0.4000000059604645,
+                    "configs": {
+                        "subtype": "NONE",
+                        "min": 0.0,
+                        "max": 1.0,
+                        "soft_min": 0.0,
+                        "soft_max": 1.0,
+                        "step": 1.0,
+                        "precision": 3,
+                        "default": 1.0
+                    }
+                }
+            ]
+        },
+        {
+            "uuid": "950e1642-a739-4335-b5f8-f9bd0b1d7038",
+            "title": "2",
+            "description": "",
+            "properties": [
+                {
+                    "name": "prop1",
+                    "value": 1.0,
+                    "configs": {
+                        "subtype": "NONE",
+                        "min": 0.0,
+                        "max": 1.0,
+                        "soft_min": 0.0,
+                        "soft_max": 1.0,
+                        "step": 1.0,
+                        "precision": 3,
+                        "default": 1.0
+                    }
+                },
+                {
+                    "name": "prop2",
+                    "value": 1.0,
+                    "configs": {
+                        "subtype": "NONE",
+                        "min": 0.0,
+                        "max": 1.0,
+                        "soft_min": 0.0,
+                        "soft_max": 1.0,
+                        "step": 1.0,
+                        "precision": 3,
+                        "default": 1.0
+                    }
+                },
+                {
+                    "name": "prop3",
+                    "value": 1.0,
+                    "configs": {
+                        "subtype": "NONE",
+                        "min": 0.0,
+                        "max": 1.0,
+                        "soft_min": 0.0,
+                        "soft_max": 1.0,
+                        "step": 1.0,
+                        "precision": 3,
+                        "default": 1.0
+                    }
+                },
+                {
+                    "name": "prop4",
+                    "value": 0.4000000059604645,
+                    "configs": {
+                        "subtype": "NONE",
+                        "min": 0.0,
+                        "max": 1.0,
+                        "soft_min": 0.0,
+                        "soft_max": 1.0,
+                        "step": 1.0,
+                        "precision": 3,
+                        "default": 1.0
+                    }
+                },
+                {
+                    "name": "prop",
+                    "value": 0.5,
+                    "configs": {
+                        "subtype": "NONE",
+                        "description": "",
+                        "min": 0.0,
+                        "max": 1.0,
+                        "soft_min": 0.0,
+                        "soft_max": 1.0,
+                        "step": 1.0,
+                        "precision": 3,
+                        "default": 1.0
+                    }
+                }
+            ]
+        },
+        {
+            "uuid": "6352a799-d20e-4b55-b37b-bd7e6e68cd80",
+            "title": "Untitled",
+            "description": "",
+            "properties": [
+                {
+                    "name": "prop1",
+                    "value": 1.0,
+                    "configs": {
+                        "subtype": "NONE",
+                        "min": 0.0,
+                        "max": 1.0,
+                        "soft_min": 0.0,
+                        "soft_max": 1.0,
+                        "step": 1.0,
+                        "precision": 3,
+                        "default": 1.0
+                    }
+                },
+                {
+                    "name": "prop2",
+                    "value": 1.0,
+                    "configs": {
+                        "subtype": "NONE",
+                        "min": 0.0,
+                        "max": 1.0,
+                        "soft_min": 0.0,
+                        "soft_max": 1.0,
+                        "step": 1.0,
+                        "precision": 3,
+                        "default": 1.0
+                    }
+                },
+                {
+                    "name": "prop3",
+                    "value": 1.0,
+                    "configs": {
+                        "subtype": "NONE",
+                        "min": 0.0,
+                        "max": 1.0,
+                        "soft_min": 0.0,
+                        "soft_max": 1.0,
+                        "step": 1.0,
+                        "precision": 3,
+                        "default": 1.0
+                    }
+                },
+                {
+                    "name": "prop4",
+                    "value": 0.4000000059604645,
+                    "configs": {
+                        "subtype": "NONE",
+                        "min": 0.0,
+                        "max": 1.0,
+                        "soft_min": 0.0,
+                        "soft_max": 1.0,
+                        "step": 1.0,
+                        "precision": 3,
+                        "default": 1.0
+                    }
+                },
+                {
+                    "name": "prop",
+                    "value": 0.5,
+                    "configs": {
+                        "subtype": "NONE",
+                        "description": "",
+                        "min": 0.0,
+                        "max": 1.0,
+                        "soft_min": 0.0,
+                        "soft_max": 1.0,
+                        "step": 1.0,
+                        "precision": 3,
+                        "default": 1.0
+                    }
+                }
+            ]
+        }
+    ]
+}

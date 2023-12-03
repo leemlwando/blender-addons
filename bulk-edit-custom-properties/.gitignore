@@ -1,0 +1,8 @@
+build
+src/dev
+__pycache__
+src/packages/__pycache__
+src/packages/operations/__pycache__
+src/packages/UI/__pycache__
+src/packages/utils/__pycache__
+*.zip
