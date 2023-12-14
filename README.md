@@ -2,6 +2,12 @@
 
 This project is an open source initiative that focuses on developing Blender addons aimed at enhancing productivity and workflow efficiency. As an open source project, the source code for these Blender addons is freely available for the public to view, use, modify, and distribute.
 
+## Download Packages
+
+You can download the latest release packages from the following links:
+
+- [Official release page]([Bulk Edit Custom Data Properties Addon Releases](https://github.com/leemlwando/blender-addons/releases/))
+
 ## Key Information:
 
 - **License:** This project is released under the [INSERT_LICENSE_NAME] license. Please review the [LICENSE.md](link_to_license_file) file for detailed information on usage and distribution.
